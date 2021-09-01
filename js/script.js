@@ -1,6 +1,6 @@
 var i = 0;
 var images = [];
-var time = 1000;
+var time = 2000;
 
 // Image list
 
@@ -40,5 +40,5 @@ window.onload = changeImg;
 
 
 function viewImg(){
-    document.getElementById('sea').src = 'img/صنعاء.jpg';
+    document.getElementById('sea').src = 'img/ب.jpg';
 }
